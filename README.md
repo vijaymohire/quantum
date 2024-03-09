@@ -1,0 +1,1 @@
+This repository holds key quantum projects that I have worked with during various partner courses, academic trainings and self-study. This is for educational purpose only; relevant copyrights related content has been displayed in the files. We have executed these code for the benefit of its usability and demonstration only. 
